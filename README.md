@@ -17,7 +17,7 @@
 
 1. Go to https://monkeytype.com/
 2. Go to themes on the bottom left and search for Rosé Pine
-3. Select it, and hafe fun!
+3. Select your variant of choice, and have fun!
 
 ## Gallery
 
