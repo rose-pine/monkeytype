@@ -1,3 +1,5 @@
+# ⚠️ This PR has been merged, but not released! It is not on the public site yet! ⚠️
+
 <p align="center">
     <img src="https://github.com/rose-pine/rose-pine-theme/raw/main/assets/icon.png" width="80" />
     <h2 align="center">Rosé Pine for Monkeytype</h2>
