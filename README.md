@@ -1,5 +1,3 @@
-# ⚠️ This PR has been merged, but not released! It is not on the public site yet! ⚠️
-
 <p align="center">
     <img src="https://github.com/rose-pine/rose-pine-theme/raw/main/assets/icon.png" width="80" />
     <h2 align="center">Rosé Pine for Monkeytype</h2>
@@ -16,12 +14,16 @@
 ## Usage
 
 1. Go to https://monkeytype.com/
-2. Go to themes on the bottom left and search for Rosé Pine
+2. Go to the theme button (it'll say "serika dark" by default) on the bottom left and search for Rosé Pine
 3. Select your variant of choice, and have fun!
 
 ## Gallery
 
-Soon
+![Rose Pine](https://cdn.discordapp.com/attachments/671117418189422594/807872333044776980/unknown.png)
+
+![Moon](https://cdn.discordapp.com/attachments/671117418189422594/807872670967660584/unknown.png)
+
+![Dawn](https://cdn.discordapp.com/attachments/671117418189422594/807872533839478794/unknown.png)
 
 ## Thanks to 
 
