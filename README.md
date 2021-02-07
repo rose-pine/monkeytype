@@ -11,6 +11,8 @@
     </a>
 </p>
 
+###### Please note this repo will NOT be updated as monkeytype gets updated, it is here to show instructions and archive the code.
+
 ## Usage
 
 1. Go to https://monkeytype.com/
@@ -28,3 +30,4 @@
 ## Thanks to 
 
 [ThatOneCalculator](https://github.com/thatonecalculator)
+
