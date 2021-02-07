@@ -18,7 +18,7 @@
 1. Go to https://monkeytype.com/
 2. Go to the theme button on the bottom left (it'll say "serika dark" by default)
 3. Search for Rosé Pine
-4. Select your variant of choice, and have fun!
+4. Select your variant of choice (regular, moon, or dawn), and have fun!
 
 ## Gallery
 
