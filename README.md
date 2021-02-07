@@ -38,3 +38,6 @@
 
 [ThatOneCalculator](https://github.com/thatonecalculator)
 
+## Code notes
+
+Theme files are present in [./static/themes/](https://github.com/rose-pine/monkeytype/tree/master/static/themes).
