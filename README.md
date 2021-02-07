@@ -16,8 +16,9 @@
 ## Usage
 
 1. Go to https://monkeytype.com/
-2. Go to the theme button (it'll say "serika dark" by default) on the bottom left and search for Rosé Pine
-3. Select your variant of choice, and have fun!
+2. Go to the theme button on the bottom left (it'll say "serika dark" by default)
+3. Search for Rosé Pine
+4. Select your variant of choice, and have fun!
 
 ## Gallery
 
