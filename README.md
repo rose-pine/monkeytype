@@ -22,9 +22,15 @@
 
 ## Gallery
 
+### Rosé Pine
+
 ![Rose Pine](https://cdn.discordapp.com/attachments/671117418189422594/807872333044776980/unknown.png)
 
+### Rosé Pine Moon
+
 ![Moon](https://cdn.discordapp.com/attachments/671117418189422594/807872670967660584/unknown.png)
+
+### Rosé Pine Dawn
 
 ![Dawn](https://cdn.discordapp.com/attachments/671117418189422594/807872533839478794/unknown.png)
 
